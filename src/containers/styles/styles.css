@@ -1,0 +1,171 @@
+    .editorPane {
+        width: 750px;
+        margin: 20px auto;
+    }
+
+    .title {
+        text-align: left;
+        width: 730px;
+        background-color: #40241a;
+        color: white;
+        font-size: 1em;
+        padding: 10px;
+    }
+
+    .title p {
+        margin: 2px;
+    }
+
+    i {
+        cursor: pointer;
+        padding-left: 3.5px;
+        padding-right: 3.5px;
+    }
+
+    i:hover {
+        color: #a4a4a4;
+    }
+
+    textarea.editor {
+        width: 730px;
+        padding: 9px;
+        height: 200px;
+        resize: vertical;
+        background-color: #efefef;
+        outline: none;
+
+    }
+
+    .previewPaneWrapper {
+
+        margin: 50px auto;
+        width: 850px;
+        min-height: 200px;
+        background-color: #efefef;
+        -webkit-box-shadow: 0px 0px 7px 1px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: 0px 0px 7px 1px rgba(0, 0, 0, 0.75);
+        box-shadow: 0px 0px 7px 1px rgba(0, 0, 0, 0.75);
+
+    }
+
+
+    .previewPaneHead {
+        background-color: #40241a;
+        color: white;
+        font-size: 1.3em;
+        padding: 5px;
+        text-align: center;
+    }
+
+    .previewPaneHead p {
+        margin: 0;
+    }
+
+    #preview {
+        overflow-y: auto;
+        overflow-wrap: break-word;
+        padding: 0 10px 10px 10px;
+    }
+
+    code {
+        background: #40241a;
+        color: white;
+        padding: 1px 4px 2px 4px;
+        font-size: 11px;
+        text-shadow: 3px 2px 1px black;
+    }
+
+    pre {
+        background: #40241a;
+        padding: 5px 0 5px 5px;
+    }
+
+
+/*    $editor-width: 730;
+    $header-bground: #40241a;
+    $body-color:#efefef;
+    $text-color:#fff;
+
+    $mixin preview-shadow($a, $b, $c, $d, $e) {
+        -webkit-box-shadow: $a, $b, $c, $d, $e;
+        -moz-box-shadow: $a, $b, $c, $d, $e;
+        box-shadow: $a, $b, $c, $d, $e;
+    }
+
+    .editorPane {
+        width: 750px;
+        margin: 20px auto;
+
+
+        .title {
+            text-align: left;
+            width: $editor-width;
+            background-color: $header-bground;
+            color: $text-color;
+            font-size: 1em;
+            padding: 10px;
+
+            p {
+                margin: 2px;
+            }
+
+        }
+
+        .editor {
+            width: $editor-width;
+            padding: 9px;
+            height: 200px;
+            resize: vertical;
+            background-color: $body-color;
+            outline: none;
+
+        }
+
+    }
+
+
+
+
+    .previewPaneWrapper {
+
+        margin: 50px auto;
+        width: 850px;
+        min-height: 200px;
+        background-color: #efefef;
+        @include preview-shadow(0px 0px 7px 1px rgba(0, 0, 0, 0.75));
+
+        .previewPaneHead {
+            background-color: $header-bground;
+            color: $text-color;
+            font-size: 1.3em;
+            padding: 5px;
+            text-align: center;
+
+            p {
+                margin: 0;
+            }
+        }
+
+        #preview {
+            overflow-y: auto;
+            overflow-wrap: break-word;
+            padding: 0 10px 10px 10px;
+
+            code {
+                background: $header-bground;
+                color: $text-color;
+                padding: 1px 4px 2px 4px;
+                font-size: 11px;
+                text-shadow: 3px 2px 1px black;
+            }
+
+            pre {
+                background: $header-bground;
+                padding: 5px 0 5px 5px;
+
+            }
+
+        }
+
+
+    }*/

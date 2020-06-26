@@ -40,10 +40,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheCount511/Markdown-Preview.git"
+    "url": "git+https://github.com/TheCount511/markdown-preview.git"
   },
   "bugs": {
-    "url": "https://github.com/TheCount511/Markdown-Preview/issues"
+    "url": "https://github.com/TheCount511/markdown-preview/issues"
   },
-  "homepage": "https://github.com/TheCount511/Markdown-Preview"
+  "homepage": "https://github.com/TheCount511/markdown-preview"
 }

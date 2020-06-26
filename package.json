@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^3.1.0",
     "marked": "^1.0.0",
     "node-sass": "^4.13.1",
     "react": "^16.11.0",
@@ -10,6 +11,8 @@
     "react-scripts": "3.2.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -42,5 +45,5 @@
   "bugs": {
     "url": "https://github.com/TheCount511/Markdown-Preview/issues"
   },
-  "homepage": "https://github.com/TheCount511/Markdown-Preview#readme"
+  "homepage": "https://github.com/TheCount511/Markdown-Preview"
 }

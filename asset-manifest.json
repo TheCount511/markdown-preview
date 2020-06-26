@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/TheCount511/Markdown-Preview/static/css/main.3069074a.chunk.css",
-    "main.js": "/TheCount511/Markdown-Preview/static/js/main.cdd9d342.chunk.js",
-    "main.js.map": "/TheCount511/Markdown-Preview/static/js/main.cdd9d342.chunk.js.map",
-    "runtime-main.js": "/TheCount511/Markdown-Preview/static/js/runtime-main.6e6991b0.js",
-    "runtime-main.js.map": "/TheCount511/Markdown-Preview/static/js/runtime-main.6e6991b0.js.map",
-    "static/js/2.66f51fdc.chunk.js": "/TheCount511/Markdown-Preview/static/js/2.66f51fdc.chunk.js",
-    "static/js/2.66f51fdc.chunk.js.map": "/TheCount511/Markdown-Preview/static/js/2.66f51fdc.chunk.js.map",
-    "index.html": "/TheCount511/Markdown-Preview/index.html",
-    "precache-manifest.664e2d82cb46711a1286c1d33dba0d1b.js": "/TheCount511/Markdown-Preview/precache-manifest.664e2d82cb46711a1286c1d33dba0d1b.js",
-    "service-worker.js": "/TheCount511/Markdown-Preview/service-worker.js",
-    "static/css/main.3069074a.chunk.css.map": "/TheCount511/Markdown-Preview/static/css/main.3069074a.chunk.css.map",
-    "static/media/logo.svg": "/TheCount511/Markdown-Preview/static/media/logo.25bf045c.svg"
+    "main.css": "/markdown-preview/static/css/main.3069074a.chunk.css",
+    "main.js": "/markdown-preview/static/js/main.0364f769.chunk.js",
+    "main.js.map": "/markdown-preview/static/js/main.0364f769.chunk.js.map",
+    "runtime-main.js": "/markdown-preview/static/js/runtime-main.20bb084a.js",
+    "runtime-main.js.map": "/markdown-preview/static/js/runtime-main.20bb084a.js.map",
+    "static/js/2.66f51fdc.chunk.js": "/markdown-preview/static/js/2.66f51fdc.chunk.js",
+    "static/js/2.66f51fdc.chunk.js.map": "/markdown-preview/static/js/2.66f51fdc.chunk.js.map",
+    "index.html": "/markdown-preview/index.html",
+    "precache-manifest.2c71e5df90de4e68d0ead38d0e0a78c2.js": "/markdown-preview/precache-manifest.2c71e5df90de4e68d0ead38d0e0a78c2.js",
+    "service-worker.js": "/markdown-preview/service-worker.js",
+    "static/css/main.3069074a.chunk.css.map": "/markdown-preview/static/css/main.3069074a.chunk.css.map",
+    "static/media/logo.svg": "/markdown-preview/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6e6991b0.js",
+    "static/js/runtime-main.20bb084a.js",
     "static/js/2.66f51fdc.chunk.js",
     "static/css/main.3069074a.chunk.css",
-    "static/js/main.cdd9d342.chunk.js"
+    "static/js/main.0364f769.chunk.js"
   ]
 }
